@@ -30,7 +30,7 @@ The task is episodic, and in order to solve the environment, the agent must get 
     - Windows (32-bit): [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Windows_x86.zip)
     - Windows (64-bit): [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Windows_x86_64.zip)
 
-2. Place the file in the DRLND GitHub repository, in the `DQN_Navigation/` folder, and unzip (or decompress) the file. 
+2. Place the file in the `DQN_Navigation/` folder, and unzip (or decompress) the file. 
 
 ### Instructions
 
