@@ -36,7 +36,7 @@ The task is episodic, and in order to solve the environment, the agent must get 
 
 * One can run the iPython notebook & train the agent (slow) or 
 * use the iPython notebook to run a saved model (fast) or 
-* watch the two videos viz. `p1_nav_02.m4v`(fastest)
+* watch the two videos viz. `DQN_Nav.m4v`(fastest)
 
 ### Report
 
