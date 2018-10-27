@@ -1,6 +1,7 @@
 [//]: # (Image References)
 
 [image1]: https://user-images.githubusercontent.com/10624937/42135619-d90f2f28-7d12-11e8-8823-82b970a54d7e.gif "Trained Agent"
+[image2]: Post-01.png "Unity Banana Bytes the Dust"
 
 # Reinforcement Learning : DQN : Collect Banana in the Unity Environment
 
@@ -41,3 +42,7 @@ The task is episodic, and in order to solve the environment, the agent must get 
 ### Report
 
 The `Report.pdf` has a summary of the algorithm, the implementation and the experimentation (network architecture, hyperparameter search et al)
+
+### Results
+
+![Unity Banana Bytes the Dust][image2]
