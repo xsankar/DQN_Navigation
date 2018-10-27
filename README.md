@@ -5,6 +5,10 @@
 
 # Reinforcement Learning : DQN : Collect Banana in the Unity Environment
 
+### Results
+
+![Unity Banana Bytes the Dust][image2]
+
 ### Introduction
 
 Train an agent to navigate (and collect bananas!) in a large, square world.  
@@ -43,6 +47,3 @@ The task is episodic, and in order to solve the environment, the agent must get 
 
 The `Report.pdf` has a summary of the algorithm, the implementation and the experimentation (network architecture, hyperparameter search et al)
 
-### Results
-
-![Unity Banana Bytes the Dust][image2]
